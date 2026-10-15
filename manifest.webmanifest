@@ -1,0 +1,14 @@
+{
+  "name": "Postres a tu ritmo",
+  "short_name": "Postres",
+  "description": "Recetas dulces ajustables, claras y disponibles sin conexión.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf4",
+  "theme_color": "#713f2a",
+  "lang": "es",
+  "icons": [
+    {"src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
