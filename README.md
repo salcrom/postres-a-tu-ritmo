@@ -1,11 +1,12 @@
 # Postres a tu ritmo
 
-PWA independiente con cinco recetas recientes que todavía no estaban en
+PWA independiente con seis recetas recientes que todavía no estaban en
 `Dulce a tu ritmo`. Incluye filtros, cantidades ajustables, procedencia,
 instalación, uso sin conexión y aviso de actualización.
 
 ## Recetas de esta versión
 
+- Cookies Ferrero Rocher — adaptación de `@bakerybynoelia`.
 - Tarta fría de chocolate y plátano — adaptación de `@cookrate.cakes`.
 - Rollos de canela Kinder Bueno — adaptación de `@haleza.food`.
 - Tarta de mousse de chocolate — adaptación de `@blendymcblender`.
