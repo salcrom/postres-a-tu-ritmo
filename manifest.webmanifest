@@ -1,7 +1,7 @@
 {
-  "name": "Postres a tu ritmo",
-  "short_name": "Postres",
-  "description": "Recetas dulces ajustables, claras y disponibles sin conexión.",
+  "name": "Bollería y galletas a tu ritmo",
+  "short_name": "Bollería",
+  "description": "Rollos, donuts, croissants y galletas ajustables y disponibles sin conexión.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
