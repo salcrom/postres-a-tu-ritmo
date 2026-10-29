@@ -1,11 +1,13 @@
 # Postres a tu ritmo
 
-PWA independiente con ocho recetas recientes que todavía no estaban en
+PWA independiente con nueve recetas recientes que todavía no estaban en
 `Dulce a tu ritmo`. Incluye filtros, cantidades ajustables, procedencia,
 instalación, uso sin conexión y aviso de actualización.
 
 ## Recetas de esta versión
 
+- Bollos de doble chocolate — receta de `@chefburcinarda`, con las cantidades
+  propuestas de relleno y el intervalo de horno identificados como adaptación.
 - Cheesecake rápida de Lotus — formulación propia inspirada en el reel de
   `@rvbengarcia`, con variantes para horno y airfryer.
 - Rollos de canela con caramelo — adaptación de `@halikit25`, ahora con
